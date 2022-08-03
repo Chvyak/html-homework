@@ -1,3 +1,20 @@
-p {
-    font-size: 16px;
+html {
+  font-family: "Times New Roman";
+}
+.article-header {
+  text-align: center;
+}
+.article-info {
+  font-size: 24px;
+  background-color: #b40431;
+  color: #ffffff;
+  padding: 30px;
+  border: 20px solid #08087a;
+  margin: 0 0 0 440px;
+  min-width: 300px;
+  max-width: 300px;
+  width: 300px;
+  height: 250px;
+  line-height: normal;
+  box-sizing: content-box;
 }
